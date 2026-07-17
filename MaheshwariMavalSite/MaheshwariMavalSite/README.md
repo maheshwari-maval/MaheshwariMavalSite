@@ -1,4 +1,4 @@
-# Akash Gaikwad — Portfolio
+# Maheshwari Maval — Portfolio
 
 This is a minimal, responsive static portfolio template for Akash Gaikwad.
 
